@@ -17,3 +17,12 @@ Install one of these:
 
 Copy these files into your `~/.vim/` directory.
 
+### Using *pathogen*
+
+Assuming you installed, enabled [pathogen][] and using the default configuration:
+
+    cd ~/.vim/bundle
+    git clone https://github.com/farkasmate/epp-syntax-vim.git
+
+[pathogen]: https://github.com/tpope/vim-pathogen
+
